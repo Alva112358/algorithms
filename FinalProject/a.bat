@@ -1,0 +1,1 @@
+for /l %%i in (1, 1, 71) do main.exe < ./Instances/p%%i > ./SA/out%%i.txt
